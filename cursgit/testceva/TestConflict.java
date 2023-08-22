@@ -24,6 +24,7 @@ public class TestConflict {
 
 	//remote chnage 5
 
+	
 	//local change 5
 
 	//remote change 6
@@ -35,5 +36,5 @@ public class TestConflict {
 	//local branch sprint5 change 7
 	//another branch change
 	//remote 44
-
+	//remote 66
 }
