@@ -6,4 +6,5 @@ public class TestConflict {
 
 	//local code added
 
+	//alt code remote
 }
