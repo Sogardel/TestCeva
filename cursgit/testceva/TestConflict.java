@@ -9,5 +9,9 @@ public class TestConflict {
 	//another local code
 
 	//alt code remote
+
 	//remote chnage 1
+
+	//local change 1
+
 }
