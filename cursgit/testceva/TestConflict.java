@@ -16,8 +16,10 @@ public class TestConflict {
 	
 	//local change 2
 	
-
 	//remote chnage 2
+
 	//remote chnage 3
+	//local change 3
+
 
 }
